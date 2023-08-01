@@ -1,4 +1,2 @@
 # demo-apring-azure
-
-
-#teste
+# teste
