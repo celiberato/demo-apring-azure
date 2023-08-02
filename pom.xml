@@ -68,7 +68,6 @@
 		            <runtime>
 		                <os>Windows</os>
 		                <javaVersion>Java 17</javaVersion>
-		                <webContainer>Tomcat 10.0</webContainer>
 		            </runtime>
 		            <deployment>
 		                <resources>
