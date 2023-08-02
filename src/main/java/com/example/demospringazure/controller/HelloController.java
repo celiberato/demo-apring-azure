@@ -23,7 +23,7 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	public String index() {
-		return "OPA!!! DEPLOY DE APP SPRING BOOT NA AZURE!!!";
+		return "\n\n\n\n         Opa!! deploy efetuado com sucesso na AZURE!!";
 	}
 
 }
