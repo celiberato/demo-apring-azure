@@ -23,7 +23,7 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	public String index() {
-		return "Opa!! deploy efetuado com sucesso na AZURE";
+		return "<html><strong>Opa!! deploy efetuado com sucesso na AZURE</strong></html>";
 	}
 
 }
